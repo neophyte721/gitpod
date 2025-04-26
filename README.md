@@ -1,11 +1,7 @@
-# A simple Gitpod.io workspace
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ItsVixano/test-gitpod)
-
 ## For setup it
 
 1. fork this repo
-2. go to gitpod.io/#"the forked repo url", example: https://gitpod.io/#https://github.com/k4ngcaribug/gitpod
+2. go to gitpod.io/#"the forked repo url", example: https://gitpod.io/#https://github.com/neophyte721/gitpod
 3. enjoy your monthly 50hrs
 
 ## Some Info
